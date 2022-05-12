@@ -1,5 +1,6 @@
 <template name="home">
 	<view>
+		<text>hello world</text>
 		<scroll-view>
 			<!-- 轮播 -->
 			<swiper class="screen-swiper square-dot"  :indicator-dots="true" :circular="true"
